@@ -1,3 +1,6 @@
+# 217. Contains Duplicate
+# https://leetcode.com/problems/contains-duplicate/
+
 class Solution:
     def hasDuplicate(self, nums: List[int]) -> bool:
         data = dict()

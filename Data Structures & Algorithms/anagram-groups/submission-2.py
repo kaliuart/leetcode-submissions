@@ -1,3 +1,6 @@
+# 49. Group Anagrams
+# https://leetcode.com/problems/group-anagrams/description/
+
 class Solution:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
         a = list()    
